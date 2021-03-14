@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+"# Ayush Parida" 
+### Profile Views
+
+
+![Visitor Count](https://profile-counter.glitch.me/{AllPlayer}/count.svg)
