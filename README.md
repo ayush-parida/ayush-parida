@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **AllPlayer/AllPlayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 "# Ayush Parida" 
-### Profile Views
-
-
-![Visitor Count](https://profile-counter.glitch.me/{AllPlayer}/count.svg)
+### Profile Views ![Visitor Count](https://profile-counter.glitch.me/{AllPlayer}/count.svg)
