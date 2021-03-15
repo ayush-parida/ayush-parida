@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <img align="center" alt="T3KRAJ's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=T3KRAJ&show_icons=true&hide_border=true" />
+  <img align="center" alt="AllPlayer's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=AllPlayer&show_icons=true&hide_border=true" />
 </details>
 ### Profile Views 
 ![Visitor Count](https://profile-counter.glitch.me/{AllPlayer}/count.svg)
