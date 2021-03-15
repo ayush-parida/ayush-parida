@@ -35,9 +35,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="center" alt="AllPlayer's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=AllPlayer&show_icons=true&hide_border=true" />
-</details>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllPlayer&show_icons=true)
+
 ### Profile Views 
 ![Visitor Count](https://profile-counter.glitch.me/{AllPlayer}/count.svg)
