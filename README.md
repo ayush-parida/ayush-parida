@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 -->
 ### Ayush Parida
 
+
+### Profile Views 
+![Visitor Count](https://profile-counter.glitch.me/{AllPlayer}/count.svg)
+
 ### Languages and tools:
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
@@ -39,7 +43,4 @@ Here are some ideas to get you started:
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AllPlayer&theme=highcontrast&count_private=true)](https://github.com/AllPlayer/github-readme-streak-stats)
 
-![AllPlayer's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllPlayer&count_private=true&show_icons=true&theme=radical)
 
-### Profile Views 
-![Visitor Count](https://profile-counter.glitch.me/{AllPlayer}/count.svg)
