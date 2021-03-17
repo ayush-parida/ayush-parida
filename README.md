@@ -35,7 +35,10 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllPlayer&show_icons=true)
+
+
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AllPlayer&theme=highcontrast)](https://github.com/AllPlayer/github-readme-streak-stats)
+
 
 ### Profile Views 
 ![Visitor Count](https://profile-counter.glitch.me/{AllPlayer}/count.svg)
