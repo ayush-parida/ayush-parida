@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AllPlayer&theme=highcontrast)](https://github.com/AllPlayer/github-readme-streak-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AllPlayer&theme=highcontrast&private=true)](https://github.com/AllPlayer/github-readme-streak-stats)
 
 
 ### Profile Views 
