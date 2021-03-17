@@ -45,3 +45,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllPlayer)](https://github.com/AllPlayer/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AllPlayer)](https://github.com/AllPlayer/github-readme-stats)
