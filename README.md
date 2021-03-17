@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AllPlayer&theme=highcontrast&count_private=true)](https://github.com/AllPlayer/github-readme-streak-stats)
 
-![AllPlayer's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllPlayer&count_private=true)
+![AllPlayer's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllPlayer&count_private=true&show_icons=true&theme=radical)
 
 ### Profile Views 
 ![Visitor Count](https://profile-counter.glitch.me/{AllPlayer}/count.svg)
