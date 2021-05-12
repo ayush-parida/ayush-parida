@@ -50,5 +50,5 @@ Here are some ideas to get you started:
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AllPlayer&theme=highcontrast&count_private=true)](https://github.com/AllPlayer/github-readme-streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllPlayer)](https://github.com/AllPlayer/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllPlayer&theme=highcontrast&count_private=true)](https://github.com/AllPlayer/github-readme-stats)
 
