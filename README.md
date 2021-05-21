@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ### Ayush Parida
 
 <!--
-### Profile Views 
+### Profile Views a
 ![Visitor Count](https://profile-counter.glitch.me/{AllPlayer}/count.svg)
 -->
 
